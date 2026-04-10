@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Gephi Network</title>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    #container {
+      width: 100%;
+      height: 100%;
+      background: #ffffff;
+    }
+
+    /* Click tooltip */
+    #tooltip {
+      position: absolute;
+      padding: 8px 12px;
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      font-size: 12px;
+      border-radius: 4px;
+      display: none;
+      pointer-events: none;
+      max-width: 250px;
+      z-index: 10;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="container"></div>
+  <div id="tooltip"></div>
+
+  <!-- Libraries -->
+  https://unpkg.com/sigma@2.4.0/build/sigma.min.js
+  https://unpkg.com/graphology@0.25.1/dist/graphology.umd.min.js
+  https://unpkg.com/graphology-import@0.9.0/dist/graphology-import.min.js
+
+  <script>
+    const container = document.getElementById("container");
+    const tooltip = document.getElementById("tooltip");
+    let activeNode = null;
+
+    fetch("graph.json")
+      .then(res => res.json())
+      .then(data => {
+
+        // Load Gephi JSON into Graphology
+        const graph = graphologyImport.json(graphology.Graph, data);
+
+        // Preserve Gephi styling
+        graph.forEachNode((node, attrs) => {
+          graph.setNodeAttribute(node, "label", attrs.label || node);
+          graph.setNodeAttribute(node, "size", attrs.size || 4);
+          graph.setNodeAttribute(node, "color", attrs.color || "#666");
+        });
+
+        graph.forEachEdge((edge, attrs) => {
+          graph.setEdgeAttribute(edge, "size", attrs.weight || 1);
+          graph.setEdgeAttribute(edge, "color", attrs.color || "#ccc");
+        });
+
+        const renderer = new sigma.Sigma(graph, container, {
+          renderLabels: true,
+          labelDensity: 0.07,
+          labelGridCellSize: 60,
+          labelRenderedSizeThreshold: 8,
+          defaultNodeColor: "#666",
+          defaultEdgeColor: "#ccc",
+          minCameraRatio: 0.1,
+          maxCameraRatio: 10
+        });
+
+        // Save original colors for reset
+        const originalColors = {};
+        graph.forEachNode((node, attrs) => {
+          originalColors[node] = attrs.color;
+        });
+
+        /* =========================
+           CLICK NODE → SHOW TOOLTIP
+        ========================= */
+
+        renderer.on("clickNode", ({ node, event }) => {
+          activeNode = node;
+
+          const attrs = graph.getNodeAttributes(node);
+
+          tooltip.innerHTML = `
+            <strong>${attrs.label}</strong><br/>
+            ${attrs.degree ? `Degree: ${attrs.degree}<br/>` : ""}
+            ${attrs.modularity_class ? `Cluster: ${attrs.modularity_class}` : ""}
+          `;
+
+          tooltip.style.left = event.clientX + 10 + "px";
+          tooltip.style.top = event.clientY + 10 + "px";
+          tooltip.style.display = "block";
+
+          // Highlight neighbors
+          const neighbors = new Set(graph.neighbors(node));
+          neighbors.add(node);
+
+          graph.forEachNode(n => {
+            graph.setNodeAttribute(
+              n,
+              "color",
+              neighbors.has(n) ? originalColors[n] : "#e0e0e0"
+            );
+          });
+        });
+
+        /* =========================
+           MOVE MOUSE → MOVE TOOLTIP
+        ========================= */
+
+        renderer.on("mousemove", ({ event }) => {
+          if (!activeNode) return;
+
+          tooltip.style.left = event.clientX + 10 + "px";
+          tooltip.style.top = event.clientY + 10 + "px";
+        });
+
+        /* =========================
+           CLICK BACKGROUND → RESET
+        ========================= */
+
+        renderer.on("clickStage", () => {
+          activeNode = null;
+          tooltip.style.display = "none";
+
+          // Reset colors
+          graph.forEachNode(n => {
+            graph.setNodeAttribute(n, "color", originalColors[n]);
+          });
+        });
+
+      })
+      .catch(err => {
+        console.error("Failed to load graph:", err);
+      });
+  </script>
+</body>
+</html>
