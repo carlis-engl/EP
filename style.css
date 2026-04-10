@@ -1,1 +1,17 @@
+body {
+  margin: 0;
+  display: flex;
+  font-family: sans-serif;
+}
 
+#sidebar {
+  width: 300px;
+  padding: 15px;
+  border-right: 1px solid #ccc;
+  background: #f8f8f8;
+}
+
+#graph-container {
+  flex: 1;
+  height: 100vh;
+}
