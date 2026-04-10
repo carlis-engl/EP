@@ -1,0 +1,2092 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "mixed"
+  },
+  "nodes": [
+    {
+      "key": "P_ANNETTE_ANDERSON",
+      "attributes": {
+        "label": "Annette Anderson",
+        "x": -1826.9843,
+        "y": 1635.2141,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_WALTER_ANDERSON",
+      "attributes": {
+        "label": "Walter Anderson",
+        "x": -1407.731,
+        "y": 2034.7172,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_HENRIETTA_BAILEY",
+      "attributes": {
+        "label": "Henrietta Bailey",
+        "x": -2780.9065,
+        "y": 1237.1082,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_LYNDA_BENGLIS",
+      "attributes": {
+        "label": "Lynda Benglis",
+        "x": -3332.3088,
+        "y": -837.97723,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_JOE_BOVA",
+      "attributes": {
+        "label": "Joe Bova",
+        "x": 3034.5618,
+        "y": 519.3399,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_JANE_CROWELL",
+      "attributes": {
+        "label": "Jane Crowell",
+        "x": 1293.0775,
+        "y": -254.87154,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_PAUL_DUFOUR",
+      "attributes": {
+        "label": "Paul DuFour",
+        "x": 2159.1873,
+        "y": 1461.4197,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_CAROLINE_DURIEUX",
+      "attributes": {
+        "label": "Caroline Durieux",
+        "x": -263.97467,
+        "y": 897.09296,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_LESLIE_ELLIOTTSMITH",
+      "attributes": {
+        "label": "Leslie Elliottsmith",
+        "x": 1390.3502,
+        "y": 976.0993,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_MALAIKA_FAVORITE",
+      "attributes": {
+        "label": "Malaika Favorite",
+        "x": 2340.3672,
+        "y": 882.1664,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_JOHN_GELDERSMA",
+      "attributes": {
+        "label": "John Geldersma",
+        "x": 5553.8184,
+        "y": -318.75006,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_BILL_ILES",
+      "attributes": {
+        "label": "Bill Iles",
+        "x": -484.95578,
+        "y": -563.0612,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_SADIE_IRVINE",
+      "attributes": {
+        "label": "Sadie Irvine",
+        "x": -2487.0422,
+        "y": 1139.1758,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_CHARLES_JEFFRESS",
+      "attributes": {
+        "label": "Charles Jeffress",
+        "x": 701.41,
+        "y": 688.1946,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_IDA_KOHLMEYER",
+      "attributes": {
+        "label": "Ida Kohlmeyer",
+        "x": -2476.56,
+        "y": 27.172138,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_LARRY_LEACH",
+      "attributes": {
+        "label": "Larry Leach",
+        "x": 967.599,
+        "y": -1169.7557,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_JOHN_MCCRADY",
+      "attributes": {
+        "label": "John McCrady",
+        "x": -2245.515,
+        "y": -961.59894,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_ELEMORE_MORGAN_JR",
+      "attributes": {
+        "label": "Elemore Morgan Jr.",
+        "x": 3638.1143,
+        "y": 286.53128,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_ELEMORE_MORGAN_SR",
+      "attributes": {
+        "label": "Elemore Morgan Sr.",
+        "x": 4274.5444,
+        "y": 367.36798,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_FRANCIS_PAVY",
+      "attributes": {
+        "label": "Francis Pavy",
+        "x": 5369.597,
+        "y": -534.5116,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_EDWARD_PRAMUK",
+      "attributes": {
+        "label": "Edward Pramuk",
+        "x": 2656.8472,
+        "y": 1546.7836,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_GEORGE_RODRIGUE",
+      "attributes": {
+        "label": "George Rodrigue",
+        "x": 5834.5728,
+        "y": -26.904634,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_MORRIS_TAFT_THOMAS",
+      "attributes": {
+        "label": "Morris Taft Thomas",
+        "x": -793.2681,
+        "y": -1651.7903,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_PAT_TRIVIGNO",
+      "attributes": {
+        "label": "Pat Trivigno",
+        "x": -2931.7966,
+        "y": -133.5389,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_CULLEN_WASHINGTON_JR",
+      "attributes": {
+        "label": "Cullen Washington Jr.",
+        "x": 2307.0,
+        "y": 71.91192,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_ELLSWORTH_WOODWARD",
+      "attributes": {
+        "label": "Ellsworth Woodward",
+        "x": -3081.4658,
+        "y": 1749.5801,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_WILLIAM_WOODWARD",
+      "attributes": {
+        "label": "William Woodward",
+        "x": -3127.42,
+        "y": 1171.7312,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_MONICA_ZERINGUE",
+      "attributes": {
+        "label": "Monica Zeringue",
+        "x": 1780.102,
+        "y": 2935.5542,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_CLYDE_CONNELL",
+      "attributes": {
+        "label": "Clyde Connell",
+        "x": -3402.8167,
+        "y": -1331.2986,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_MARC_RAWLS",
+      "attributes": {
+        "label": "Marc Rawls",
+        "x": -4188.4917,
+        "y": -938.1924,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_SOL_LEWITT",
+      "attributes": {
+        "label": "Sol Lewitt",
+        "x": -3789.0964,
+        "y": -368.98438,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_EVA_HESSE",
+      "attributes": {
+        "label": "Eva Hesse",
+        "x": -4029.6714,
+        "y": -1318.1929,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_BARNETT_NEWMAAN",
+      "attributes": {
+        "label": "Barnett Newman",
+        "x": -3800.8628,
+        "y": -661.9672,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_KLAUS_KERTESS",
+      "attributes": {
+        "label": "Klaus Kertess",
+        "x": -4162.858,
+        "y": -1159.0242,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_PAULA_COOPER",
+      "attributes": {
+        "label": "Paula Cooper",
+        "x": -3499.1917,
+        "y": -1672.5339,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_ALAN_SARET",
+      "attributes": {
+        "label": "Alan Saret",
+        "x": -3729.4163,
+        "y": -1600.9535,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_RICHARD_SERRA",
+      "attributes": {
+        "label": "Richard Serra",
+        "x": -3880.1387,
+        "y": -997.7965,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "P_DONALD_JUDD",
+      "attributes": {
+        "label": "Donald Judd",
+        "x": -3218.567,
+        "y": -1609.5205,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Person",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_PENNSYLVANIA_ACADEMY_OF_FINE_ARTS",
+      "attributes": {
+        "label": "Pennsylvania Academy of Fine Arts",
+        "x": -779.5181,
+        "y": 1580.9415,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "label": "Newcomb-Tulane College",
+        "x": -2348.7405,
+        "y": 689.61255,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 12
+      }
+    },
+    {
+      "key": "O_UNIVERSITY_OF_HOUSTON",
+      "attributes": {
+        "label": "University of Houston",
+        "x": 3656.3787,
+        "y": 652.6412,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_LOUISIANA_CHRISTIAN_UNIVERSITY",
+      "attributes": {
+        "label": "Louisiana Christian University",
+        "x": 624.9553,
+        "y": 130.66006,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 4
+      }
+    },
+    {
+      "key": "O_YALE",
+      "attributes": {
+        "label": "Yale University",
+        "x": 2376.0654,
+        "y": 2052.7524,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_LOUISIANA_STATE_UNIVERSITY",
+      "attributes": {
+        "label": "Louisiana State at University",
+        "x": 1913.3707,
+        "y": 699.34015,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 11
+      }
+    },
+    {
+      "key": "O_UNIVERSITY_OF_LOUISIANA_LAFAYETTE",
+      "attributes": {
+        "label": "University of Louisiana Lafayette",
+        "x": 4995.32,
+        "y": -94.685814,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 5
+      }
+    },
+    {
+      "key": "O_LOUISIANA_TECH",
+      "attributes": {
+        "label": "Louisiana Tech",
+        "x": -297.43726,
+        "y": -1004.42035,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_STEPHEN_F_AUSTIN_UNIVERSITY",
+      "attributes": {
+        "label": "Stephen F. Austin University",
+        "x": 741.8487,
+        "y": 1179.2974,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_NORTHWESTERN_STATE_UNIVERSITY",
+      "attributes": {
+        "label": "Northwestern State University",
+        "x": 1237.3135,
+        "y": -1750.6748,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_ARTS_CRAFTS_CLUB_OF_NEW_ORLEANS",
+      "attributes": {
+        "label": "Arts \u0026 Crafts Club of New Orleans",
+        "x": -2214.6257,
+        "y": -620.3522,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 3
+      }
+    },
+    {
+      "key": "O_QUEENS_COLLEGE",
+      "attributes": {
+        "label": "Queens College",
+        "x": 2960.1416,
+        "y": 1877.5745,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_MCNEESE_UNIVERSITY",
+      "attributes": {
+        "label": "McNeese University",
+        "x": -1696.12,
+        "y": -1035.7413,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 3
+      }
+    },
+    {
+      "key": "O_RHODE_ISLAND_SCHOOL_OF_DESIGN",
+      "attributes": {
+        "label": "Rhode Island School of Design",
+        "x": -3523.1843,
+        "y": 1684.9746,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_UNIVERSITY_OF_NEW_ORLEANS",
+      "attributes": {
+        "label": "University of New Orleans",
+        "x": 1583.3856,
+        "y": 2045.5066,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_UNIVERSITY_OF_NEW_MEXICO",
+      "attributes": {
+        "label": "University of New Mexico",
+        "x": 3275.1692,
+        "y": 4.1241426,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_RUTGERS_UNIVERSITY",
+      "attributes": {
+        "label": "Rutgers University",
+        "x": 6107.7495,
+        "y": -649.7683,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_MCCRADY_ART_SCHOOL",
+      "attributes": {
+        "label": "McCrady Art School",
+        "x": -2445.415,
+        "y": -554.42456,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_OXFORD_UNIVERSITY",
+      "attributes": {
+        "label": "Oxford University",
+        "x": 4190.5117,
+        "y": -23.222702,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_KENT_STATE_UNIVERSITY",
+      "attributes": {
+        "label": "Kent State University",
+        "x": 3134.893,
+        "y": 2111.373,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_ART_CENTER_COLLEGE_OF_DESIGN",
+      "attributes": {
+        "label": "Art Center College of Design",
+        "x": 6519.905,
+        "y": -100.86035,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_SOUTHERN_UNIVERSITY",
+      "attributes": {
+        "label": "Southern University",
+        "x": -685.0386,
+        "y": -2284.4514,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_SCHOOL_OF_THE_MUSEUM_OF_FINE_ARTS_AT_TUFTS_UNIVERSITY",
+      "attributes": {
+        "label": "School of the Museum of Fine Arts at Tufts University",
+        "x": 2609.5361,
+        "y": -432.07706,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_LOUISIANA_STATE_UNIVERSITY_ALEXANDRIA",
+      "attributes": {
+        "label": "Louisiana State University of Alexandria",
+        "x": 153.70279,
+        "y": -1583.8856,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_NEW_ORLEANS_CENTER_FOR_THE_CREATIVE_ARTS",
+      "attributes": {
+        "label": "New Orleans Center for the Creative Arts",
+        "x": 1925.8752,
+        "y": 3573.5154,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_NICHOLLS_STATE_UNIVERSITY",
+      "attributes": {
+        "label": "Nicholls State University",
+        "x": 3480.3896,
+        "y": 139.57118,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_GRAMBLING_STATE_UNIVERSITY",
+      "attributes": {
+        "label": "Grambling State University",
+        "x": 2819.6091,
+        "y": 1132.15,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_HANS_HOFFMAN",
+      "attributes": {
+        "label": "Hans Hoffman",
+        "x": -2119.7488,
+        "y": 128.34589,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_NSU_SUMMER_ART_SCHOOL",
+      "attributes": {
+        "label": "NSU Summer Art School",
+        "x": -3253.9165,
+        "y": 2441.1975,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_SHEARWATER_POTTERY",
+      "attributes": {
+        "label": "Shearwater Pottery",
+        "x": -1725.0769,
+        "y": 2209.2039,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_NEWCOMB_POTTERY",
+      "attributes": {
+        "label": "Newcomb Pottery",
+        "x": -2767.8223,
+        "y": 1609.2194,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 3
+      }
+    },
+    {
+      "key": "O_RIVER_OAKS_ART_CENTER",
+      "attributes": {
+        "label": "River Oaks Art Center",
+        "x": 1317.4973,
+        "y": -862.66095,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_FEDERAL_ART_PROJECT",
+      "attributes": {
+        "label": "Federal Art Project",
+        "x": -165.90688,
+        "y": 1375.8878,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_ORLEANS_GALLERY",
+      "attributes": {
+        "label": "Orleans Gallery",
+        "x": -2660.1704,
+        "y": -205.75089,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_ARTIST_ASSOCIATION_OF_NEW_ORLEANS",
+      "attributes": {
+        "label": "Artist Association of New Orleans",
+        "x": -3354.6538,
+        "y": 1396.9591,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 2
+      }
+    },
+    {
+      "key": "O_PUBLIC_WORKS_OF_ART_PROJECT",
+      "attributes": {
+        "label": "Public Works of Art Project",
+        "x": -3518.771,
+        "y": 2362.857,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_SOUTHERN_STATES_ART_LEAGUE",
+      "attributes": {
+        "label": "Southern States Art League",
+        "x": -3710.9285,
+        "y": 2167.0332,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_NEW_YORK_SCHOOL_OF_FINE_AND_APPLIED ART",
+      "attributes": {
+        "label": "New York School of Fine and Applied Art",
+        "x": -1372.6604,
+        "y": 2711.3955,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_BROOKLYN_MUSEUM_ART_SCHOOL",
+      "attributes": {
+        "label": "Brooklyn Museum Art School",
+        "x": -4065.4043,
+        "y": -509.46402,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_UNIVERSITY_OF_ROCHESTER",
+      "attributes": {
+        "label": "University of Rochester",
+        "x": -3682.9253,
+        "y": -1251.3434,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_PRINCETON_UNIVERSITY",
+      "attributes": {
+        "label": "Princeton University",
+        "x": -3062.5862,
+        "y": -1413.6804,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_UNIVERSITY_OF_ARIZONA",
+      "attributes": {
+        "label": "University of Arizona",
+        "x": -4142.721,
+        "y": -726.2983,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_SCHOOL_OF_VISUAL_ARTS",
+      "attributes": {
+        "label": "School of Visual Arts",
+        "x": -3916.9385,
+        "y": -1507.584,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    },
+    {
+      "key": "O_INTERNATIONAL_ACADEMY_OF_CERAMICS",
+      "attributes": {
+        "label": "International Academy of Ceramics",
+        "x": 3549.6848,
+        "y": 896.7399,
+        "size": 20.0,
+        "color": "#d5d5d5",
+        "nodetype": "Institution",
+        "degree": 1
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "424",
+      "source": "P_ANNETTE_ANDERSON",
+      "target": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "425",
+      "source": "P_ANNETTE_ANDERSON",
+      "target": "P_WALTER_ANDERSON",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "426",
+      "source": "P_ANNETTE_ANDERSON",
+      "target": "O_SHEARWATER_POTTERY",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "427",
+      "source": "O_NEW_YORK_SCHOOL_OF_FINE_AND_APPLIED ART",
+      "target": "P_WALTER_ANDERSON",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "428",
+      "source": "O_PENNSYLVANIA_ACADEMY_OF_FINE_ARTS",
+      "target": "P_WALTER_ANDERSON",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "429",
+      "source": "P_WALTER_ANDERSON",
+      "target": "O_SHEARWATER_POTTERY",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "430",
+      "source": "P_WALTER_ANDERSON",
+      "target": "P_ANNETTE_ANDERSON",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "431",
+      "source": "O_NEWCOMB_TULANE_COLLEGE",
+      "target": "P_HENRIETTA_BAILEY",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "432",
+      "source": "P_HENRIETTA_BAILEY",
+      "target": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "433",
+      "source": "P_HENRIETTA_BAILEY",
+      "target": "O_NEWCOMB_POTTERY",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "434",
+      "source": "P_HENRIETTA_BAILEY",
+      "target": "P_ELLSWORTH_WOODWARD",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "435",
+      "source": "P_HENRIETTA_BAILEY",
+      "target": "O_ARTIST_ASSOCIATION_OF_NEW_ORLEANS",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "436",
+      "source": "O_NEWCOMB_TULANE_COLLEGE",
+      "target": "P_LYNDA_BENGLIS",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "437",
+      "source": "O_MCNEESE_UNIVERSITY",
+      "target": "P_LYNDA_BENGLIS",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "438",
+      "source": "O_BROOKLYN_MUSEUM_ART_SCHOOL",
+      "target": "P_LYNDA_BENGLIS",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "439",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "O_UNIVERSITY_OF_ROCHESTER",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "440",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "O_PRINCETON_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "441",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "O_UNIVERSITY_OF_ARIZONA",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "442",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "O_SCHOOL_OF_VISUAL_ARTS",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "443",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_CLYDE_CONNELL",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "444",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_MARC_RAWLS",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "445",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_PAT_TRIVIGNO",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "446",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_DONALD_JUDD",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "447",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_SOL_LEWITT",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "448",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_EVA_HESSE",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "449",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_BARNETT_NEWMAAN",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "450",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_KLAUS_KERTESS",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "451",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_PAULA_COOPER",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "452",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_ALAN_SARET",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "453",
+      "source": "P_LYNDA_BENGLIS",
+      "target": "P_RICHARD_SERRA",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "454",
+      "source": "O_UNIVERSITY_OF_HOUSTON",
+      "target": "P_JOE_BOVA",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "455",
+      "source": "O_UNIVERSITY_OF_NEW_MEXICO",
+      "target": "P_JOE_BOVA",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "456",
+      "source": "P_JOE_BOVA",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "457",
+      "source": "P_JOE_BOVA",
+      "target": "O_NICHOLLS_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "458",
+      "source": "P_JOE_BOVA",
+      "target": "O_INTERNATIONAL_ACADEMY_OF_CERAMICS",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "459",
+      "source": "O_LOUISIANA_STATE_UNIVERSITY",
+      "target": "P_JANE_CROWELL",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "460",
+      "source": "O_LOUISIANA_CHRISTIAN_UNIVERSITY",
+      "target": "P_JANE_CROWELL",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "461",
+      "source": "P_JANE_CROWELL",
+      "target": "O_RIVER_OAKS_ART_CENTER",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "462",
+      "source": "P_JANE_CROWELL",
+      "target": "P_LARRY_LEACH",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "463",
+      "source": "O_YALE",
+      "target": "P_PAUL_DUFOUR",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "464",
+      "source": "P_PAUL_DUFOUR",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "465",
+      "source": "O_PENNSYLVANIA_ACADEMY_OF_FINE_ARTS",
+      "target": "P_CAROLINE_DURIEUX",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "466",
+      "source": "O_NEWCOMB_TULANE_COLLEGE",
+      "target": "P_CAROLINE_DURIEUX",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "467",
+      "source": "P_CAROLINE_DURIEUX",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "468",
+      "source": "P_CAROLINE_DURIEUX",
+      "target": "O_FEDERAL_ART_PROJECT",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "469",
+      "source": "O_LOUISIANA_STATE_UNIVERSITY",
+      "target": "P_LESLIE_ELLIOTTSMITH",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "470",
+      "source": "P_LESLIE_ELLIOTTSMITH",
+      "target": "O_LOUISIANA_CHRISTIAN_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "471",
+      "source": "P_LESLIE_ELLIOTTSMITH",
+      "target": "O_UNIVERSITY_OF_NEW_ORLEANS",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "472",
+      "source": "P_LESLIE_ELLIOTTSMITH",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "473",
+      "source": "O_LOUISIANA_STATE_UNIVERSITY",
+      "target": "P_MALAIKA_FAVORITE",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "474",
+      "source": "P_MALAIKA_FAVORITE",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "475",
+      "source": "P_MALAIKA_FAVORITE",
+      "target": "O_GRAMBLING_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "476",
+      "source": "O_UNIVERSITY_OF_LOUISIANA_LAFAYETTE",
+      "target": "P_JOHN_GELDERSMA",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "477",
+      "source": "O_RUTGERS_UNIVERSITY",
+      "target": "P_JOHN_GELDERSMA",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "478",
+      "source": "P_JOHN_GELDERSMA",
+      "target": "O_UNIVERSITY_OF_LOUISIANA_LAFAYETTE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "479",
+      "source": "O_LOUISIANA_TECH",
+      "target": "P_BILL_ILES",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "480",
+      "source": "P_BILL_ILES",
+      "target": "O_LOUISIANA_CHRISTIAN_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "481",
+      "source": "P_BILL_ILES",
+      "target": "O_MCNEESE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "482",
+      "source": "O_NEWCOMB_TULANE_COLLEGE",
+      "target": "P_SADIE_IRVINE",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "483",
+      "source": "P_SADIE_IRVINE",
+      "target": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "484",
+      "source": "P_SADIE_IRVINE",
+      "target": "O_NEWCOMB_POTTERY",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "485",
+      "source": "O_STEPHEN_F_AUSTIN_UNIVERSITY",
+      "target": "P_CHARLES_JEFFRESS",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "486",
+      "source": "P_CHARLES_JEFFRESS",
+      "target": "O_LOUISIANA_CHRISTIAN_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "487",
+      "source": "O_NEWCOMB_TULANE_COLLEGE",
+      "target": "P_IDA_KOHLMEYER",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "488",
+      "source": "O_MCCRADY_ART_SCHOOL",
+      "target": "P_IDA_KOHLMEYER",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "489",
+      "source": "P_IDA_KOHLMEYER",
+      "target": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "490",
+      "source": "P_IDA_KOHLMEYER",
+      "target": "O_HANS_HOFFMAN",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "491",
+      "source": "P_IDA_KOHLMEYER",
+      "target": "O_ORLEANS_GALLERY",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "492",
+      "source": "P_IDA_KOHLMEYER",
+      "target": "O_ARTS_CRAFTS_CLUB_OF_NEW_ORLEANS",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "493",
+      "source": "P_IDA_KOHLMEYER",
+      "target": "P_PAT_TRIVIGNO",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "494",
+      "source": "O_NORTHWESTERN_STATE_UNIVERSITY",
+      "target": "P_LARRY_LEACH",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "495",
+      "source": "P_LARRY_LEACH",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY_ALEXANDRIA",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "496",
+      "source": "P_LARRY_LEACH",
+      "target": "O_RIVER_OAKS_ART_CENTER",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "497",
+      "source": "O_ARTS_CRAFTS_CLUB_OF_NEW_ORLEANS",
+      "target": "P_JOHN_MCCRADY",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "498",
+      "source": "P_JOHN_MCCRADY",
+      "target": "O_MCCRADY_ART_SCHOOL",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "499",
+      "source": "P_JOHN_MCCRADY",
+      "target": "O_ARTS_CRAFTS_CLUB_OF_NEW_ORLEANS",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "500",
+      "source": "O_LOUISIANA_STATE_UNIVERSITY",
+      "target": "P_ELEMORE_MORGAN_JR",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "501",
+      "source": "O_OXFORD_UNIVERSITY",
+      "target": "P_ELEMORE_MORGAN_JR",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "502",
+      "source": "P_ELEMORE_MORGAN_JR",
+      "target": "O_UNIVERSITY_OF_LOUISIANA_LAFAYETTE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "503",
+      "source": "P_ELEMORE_MORGAN_JR",
+      "target": "P_ELEMORE_MORGAN_SR",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "504",
+      "source": "O_UNIVERSITY_OF_LOUISIANA_LAFAYETTE",
+      "target": "P_FRANCIS_PAVY",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "505",
+      "source": "O_QUEENS_COLLEGE",
+      "target": "P_EDWARD_PRAMUK",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "506",
+      "source": "O_KENT_STATE_UNIVERSITY",
+      "target": "P_EDWARD_PRAMUK",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "507",
+      "source": "P_EDWARD_PRAMUK",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "508",
+      "source": "P_EDWARD_PRAMUK",
+      "target": "O_QUEENS_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "509",
+      "source": "O_UNIVERSITY_OF_LOUISIANA_LAFAYETTE",
+      "target": "P_GEORGE_RODRIGUE",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "510",
+      "source": "O_ART_CENTER_COLLEGE_OF_DESIGN",
+      "target": "P_GEORGE_RODRIGUE",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "511",
+      "source": "O_MCNEESE_UNIVERSITY",
+      "target": "P_MORRIS_TAFT_THOMAS",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "512",
+      "source": "O_SOUTHERN_UNIVERSITY",
+      "target": "P_MORRIS_TAFT_THOMAS",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "513",
+      "source": "P_MORRIS_TAFT_THOMAS",
+      "target": "O_LOUISIANA_STATE_UNIVERSITY_ALEXANDRIA",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "514",
+      "source": "P_PAT_TRIVIGNO",
+      "target": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "515",
+      "source": "P_PAT_TRIVIGNO",
+      "target": "P_LYNDA_BENGLIS",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "516",
+      "source": "P_PAT_TRIVIGNO",
+      "target": "P_IDA_KOHLMEYER",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "517",
+      "source": "O_LOUISIANA_STATE_UNIVERSITY",
+      "target": "P_CULLEN_WASHINGTON_JR",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "518",
+      "source": "O_SCHOOL_OF_THE_MUSEUM_OF_FINE_ARTS_AT_TUFTS_UNIVERSITY",
+      "target": "P_CULLEN_WASHINGTON_JR",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "519",
+      "source": "O_RHODE_ISLAND_SCHOOL_OF_DESIGN",
+      "target": "P_ELLSWORTH_WOODWARD",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "520",
+      "source": "P_ELLSWORTH_WOODWARD",
+      "target": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "521",
+      "source": "P_ELLSWORTH_WOODWARD",
+      "target": "O_NSU_SUMMER_ART_SCHOOL",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "522",
+      "source": "P_ELLSWORTH_WOODWARD",
+      "target": "O_NEWCOMB_POTTERY",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "523",
+      "source": "P_ELLSWORTH_WOODWARD",
+      "target": "O_PUBLIC_WORKS_OF_ART_PROJECT",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "524",
+      "source": "P_ELLSWORTH_WOODWARD",
+      "target": "O_SOUTHERN_STATES_ART_LEAGUE",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "525",
+      "source": "P_WILLIAM_WOODWARD",
+      "target": "O_RHODE_ISLAND_SCHOOL_OF_DESIGN",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "526",
+      "source": "P_WILLIAM_WOODWARD",
+      "target": "O_NEWCOMB_TULANE_COLLEGE",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    },
+    {
+      "key": "527",
+      "source": "P_WILLIAM_WOODWARD",
+      "target": "O_ARTIST_ASSOCIATION_OF_NEW_ORLEANS",
+      "undirected": true,
+      "attributes": {
+        "color": "#f97743",
+        "weight": 1.0,
+        "relationship": "Associated with"
+      }
+    },
+    {
+      "key": "528",
+      "source": "P_MONICA_ZERINGUE",
+      "target": "O_UNIVERSITY_OF_NEW_ORLEANS",
+      "attributes": {
+        "color": "#9a96e5",
+        "weight": 1.0,
+        "relationship": "Studied at"
+      }
+    },
+    {
+      "key": "529",
+      "source": "P_MONICA_ZERINGUE",
+      "target": "O_NEW_ORLEANS_CENTER_FOR_THE_CREATIVE_ARTS",
+      "attributes": {
+        "color": "#28b36a",
+        "weight": 1.0,
+        "relationship": "Taught at"
+      }
+    }
+  ]
+}
